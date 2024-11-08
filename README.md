@@ -18,4 +18,4 @@ In this project, we have created 5 models, each containing the code for a differ
 ## Requirements
 Before running the code in this project, make sure you have installed all packages in the requirements.txt by running
 
-```pip install -r requirements.txt```
+```pip install -r requirements.txt```# NLP-and-LLM-Powered-Thematic-Analysis-Framework
